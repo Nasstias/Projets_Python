@@ -1,0 +1,6 @@
+nom = input("quel est ton nom? ")
+print("Bonjour " , nom)
+prenom = input("quel est ton prenom? ")
+print("Bonjour " , prenom)
+clashroyal = input("a tu clashroyal? ")
+print("tu a clashroyal " , clashroyal)
